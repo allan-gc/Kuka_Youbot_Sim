@@ -7,6 +7,8 @@ were created in CoppeliaSim.
 
 The file under the 'code' directory shows the template used to generate the three seperate trajectories. The three seperate cases are included in this file, but only the 'best case' is actually used. The other cases are commented out, and their respective scripts can be found and ran in the corresponding directory under the results directory.
 
+Below are the demo videos for each trajectory simulation. 
+
 ## Best Trajectory Simulation
 
 
